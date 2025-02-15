@@ -1,2 +1,2 @@
-# Stupid-RISC-instruction-setn
-This serves as an instruction set for my hobby CPU project. This is important for other projects
+# Stupid-RISC-instruction-set
+This serves as an instruction set for my hobby CPU project. This is important for some of my other projects (VirtualMachine, etc.).
